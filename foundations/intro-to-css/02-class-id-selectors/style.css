@@ -9,10 +9,13 @@
     font-size: 36px;
 }
 
-#third,
-#fourth{
+.font-size-24{
     font-size: 24px;
 }
+/* #third,
+#fourth{
+    font-size: 24px;
+} */
 
 #fourth{
     background-color: rgb(115, 226, 115);
