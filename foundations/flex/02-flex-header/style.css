@@ -1,16 +1,16 @@
-*{
+* {
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
   /* border: 2px solid black; */
 }
 
-.header  {
+.header {
   font-family: monospace;
   background: papayawhip;
   display: flex;
   justify-content: space-between;
-  padding:20px;
+  padding: 20px;
   margin-top: 10px;
   align-items: center;
 }
@@ -26,6 +26,8 @@
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
+  display: flex;
+  gap: 8px;
 }
 
 a {
